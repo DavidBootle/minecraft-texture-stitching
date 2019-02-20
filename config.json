@@ -1,13 +1,13 @@
 {
 	"templates": [
 		{
-			"path": "templates/itemduct_I.json",
+			"path": "templates/itemduct_T.json",
 			"images": [
-				"itemduct.png"
+				"itemduct_X.png"
 			]
 		}
 	],
 	"image": null,
 	"image_size": [16,16],
-	"image_save_name": "itemduct_I_1.png"
+	"image_save_name": "itemduct_T_up.png"
 }
