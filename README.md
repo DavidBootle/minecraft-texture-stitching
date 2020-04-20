@@ -4,6 +4,6 @@ This program uses json configuration files to put together different textures in
 ## Setup
 To setup this application on your computer, you need the latest version of [Python 3](https://www.python.org/downloads/) and the [Pillow](https://pillow.readthedocs.io/en/stable/) module. Once you install Python 3, run `pip install pillow` in command prompt on Windows, or terminal on Linux.
 
-// TODO Finish readme
+// TODO Add detailed guide
 
 © David Bootle 2019
